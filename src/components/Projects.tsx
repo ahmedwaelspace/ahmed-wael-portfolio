@@ -5,13 +5,13 @@ const projects = [
     title: "LaslesVPN Landing Template To VPN Company",
     category: "Front End",
     image: "/lasles-vpn.webp",
-    link: "https://ahmedwaelhub.github.io/LaslesVPN",
+    link: "https://ahmedwaelspace.github.io/LaslesVPN",
   },
   {
     title: "Remind Me - Landing Page to Mobile App",
     category: "Front End",
     image: "/remind-me-app.webp",
-    link: "https://ahmedwaelhub.github.io/Remind-Me",
+    link: "https://ahmedwaelspace.github.io/RemindMe",
   },
 ];
 
